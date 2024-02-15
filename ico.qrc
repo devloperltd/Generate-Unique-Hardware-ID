@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>Icons/password.png</file>
+    <file>Icons/close.png</file>
+    <file>Icons/key.png</file>
+    <file>Icons/paste.png</file>
+    <file>Icons/files.png</file>
+    <file>Icons/key.png</file>
+    <file>Icons/refresh.png</file>
+  </qresource>
+</RCC>
